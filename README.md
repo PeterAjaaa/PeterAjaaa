@@ -5,7 +5,7 @@ I'm a self-taught programmer. Well, **future** programmer anyway. Currently, I'm
 Software development has piqued my interest and curiosity from a long time ago! For me, it's just fascinating to be able to build things and to turn ideas into real-world projects!
 
 ### ✍️ What languages you're learning on currently?
-Currently, I'm learning Python and Go. There's more to come though! One can never have too much knowledge, right?
+Currently, I'm learning Python and Rust. There's more to come though! One can never have too much knowledge, right?
 
 ### 🔎 Where can I find you ?
 You can find me here!
