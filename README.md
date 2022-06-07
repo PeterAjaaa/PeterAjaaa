@@ -17,7 +17,7 @@ You can find me here!
 ![](https://img.shields.io/badge/DE-XFCE-blue?style=flat&logo=XFCE&logoColor=white)
 ![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat&logo=VisualStudioCode&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=Python&logoColor=white)
-![](https://img.shields.io/badge/Code-Go-blue?style=flat&logo=Go&logoColor=white)
+![](https://img.shields.io/badge/Code-Rust-blue?style=flat&logo=Rust&logoColor=white)
 ![](https://img.shields.io/badge/Markup-Markdown-blue?style=flat&logo=Markdown&logoColor=white)
 ![](https://img.shields.io/badge/Shell-Bash-blue?style=flat&logo=GNUBash&logoColor=white)
 
