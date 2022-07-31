@@ -14,8 +14,8 @@ You can find me here!
 
 ### ⚙️ My daily drivers!
 ![](https://img.shields.io/badge/OS-Arch%20Linux-blue?style=flat&logo=ArchLinux&logoColor=white)
-![](https://img.shields.io/badge/DE-XFCE-blue?style=flat&logo=XFCE&logoColor=white)
-![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat&logo=VisualStudioCode&logoColor=white)
+![](https://img.shields.io/badge/WM-i3wm-blue?style=flat)
+![](https://img.shields.io/badge/Editor-Neovim-blue?style=flat&logo=Neovim&logoColor=white)
 ![](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Code-Rust-blue?style=flat&logo=Rust&logoColor=white)
 ![](https://img.shields.io/badge/Markup-Markdown-blue?style=flat&logo=Markdown&logoColor=white)
