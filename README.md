@@ -9,7 +9,7 @@ Currently, I'm mainly develop using Python, Rust, and Java. There's more to come
 
 ![PeterAjaaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterAjaaa&show_icons=true&theme=react)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterAjaaa&layout=compact&theme=react)
-<a href="https://app.daily.dev/peterajaaa"><img src="./devcard.png" width="400" alt="Peter's Dev Card"/></a>
+<a href="https://app.daily.dev/peterajaaa"><img src="https://github.com/PeterAjaaa/PeterAjaaa/devcard.png" width="400" alt="Peter's Dev Card"/></a>
 <!---
 PeterAjaaa/PeterAjaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
