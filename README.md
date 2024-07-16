@@ -5,7 +5,7 @@ I'm a software developer. Well, **future** software developer anyway. Currently,
 Software development has piqued my interest and curiosity from a long time ago! For me, it's just fascinating to be able to build things and to turn ideas into real-world projects! I also want to make impact and help those around me using the skills I have, and software development enables me to do exactly that!
 
 ### ✍️ What is your current tech stack?
-Currently, I'm mainly develop using Python, Rust, and Java. There's more to come though! I'm still learning many new things every day, so stay tuned!
+Currently, I mainly develop using Python, Rust, and Java. There's more to come though! I'm still learning many new things every day, so stay tuned!
 
 <a href="https://www.codewars.com/users/PeterAjaaa"><img src="https://www.codewars.com/users/PeterAjaaa/badges/large" alt="Peter's Codewars Badge"/></a>
 
