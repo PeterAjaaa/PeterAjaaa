@@ -7,12 +7,12 @@ Software development has piqued my interest and curiosity from a long time ago! 
 ### ✍️ What is your current tech stack?
 Currently, I mainly develop using Python, Rust, and Java. I do developments in other languages though!
 <a href="https://www.codewars.com/users/PeterAjaaa"><img src="https://www.codewars.com/users/PeterAjaaa/badges/large" alt="Peter's Codewars Badge"/></a>
+<!---
+<a href="https://app.daily.dev/peterajaaa"><img src="https://github.com/PeterAjaaa/PeterAjaaa/blob/main/devcard.png" width="400" alt="Peter's Dev Card"/></a>
 
 ![PeterAjaaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterAjaaa&show_icons=true&theme=react) 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterAjaaa&layout=compact&theme=react)
-<!---
-<a href="https://app.daily.dev/peterajaaa"><img src="https://github.com/PeterAjaaa/PeterAjaaa/blob/main/devcard.png" width="400" alt="Peter's Dev Card"/></a>
 --->
 
 <!---
